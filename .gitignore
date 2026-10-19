@@ -1,0 +1,16 @@
+.DS_Store
+build/
+DerivedData/
+*.app/
+*.dSYM/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+.build/
+Stillspace.zip
+Release/
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.key

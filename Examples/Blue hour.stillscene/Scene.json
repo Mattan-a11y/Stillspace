@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "e981578a-b858-4283-a76a-6918f0ceb4ad",
+  "name": "Blue hour \u00b7 Minimal",
+  "selected": "40bca230-a770-4d0a-858c-255c886e7ba3",
+  "scenes": [
+    {
+      "id": "40bca230-a770-4d0a-858c-255c886e7ba3",
+      "name": "Blue hour",
+      "palette": 2,
+      "builtin": "night",
+      "sound": {
+        "enabled": false,
+        "volume": 0.5
+      }
+    }
+  ],
+  "widgetsEnabled": true,
+  "widgets": [
+    {
+      "id": "421e659b-25f9-4fdf-8351-7961e93924f2",
+      "kind": "Clock",
+      "text": "",
+      "size": 28
+    }
+  ],
+  "corner": "Top right",
+  "automatic": false,
+  "created": 813268911.553636
+}
